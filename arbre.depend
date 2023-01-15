@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1612293315 source:d:\tp\complexite\tp4\arbre.cpp
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"arbre.h"
+	"liste.h"
+
+1611512120 d:\tp\complexite\tp4\arbre.h
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+
+1611507348 d:\tp\complexite\tp4\liste.h
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+
+1613501138 source:d:\tp\complexite\tp4\mainarbre.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"arbre.h"
+	"liste.h"
+
+1611508810 source:d:\tp\complexite\tp4\liste.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	"liste.h"
+
